@@ -1,4 +1,0 @@
-pytest
-======
-
-A test repo
